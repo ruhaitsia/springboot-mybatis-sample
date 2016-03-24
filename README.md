@@ -1,1 +1,1 @@
-"# springboot-mybatis-sample" 
+spring boot and mybatis integration sample.
